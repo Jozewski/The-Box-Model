@@ -11,6 +11,7 @@
     width: 100px;
     border: 30px solid #9B51E0;
     margin: 100px;
+    box-sizing: border-box;
 }
 
 .box-two {
